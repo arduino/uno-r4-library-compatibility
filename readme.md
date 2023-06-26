@@ -2,9 +2,11 @@
 
 The Arduino UNO R3 is a development board based on the **8-bit ATMega328P** microcontroller. It is one of the most iconic boards ever designed, and it is known and loved by millions of makers worldwide.
 
-In 2023, the **Arduino Uno R4** will be released, which will be the first Uno to feature a 32-bit microcontroller, the [RA4M1](https://www.renesas.com/us/en/document/dst/renesas-ra4m1-group-datasheet?r=1054146) from Renesas.  While 32-bit microcontrollers are no new thing, it is the first official Arduino Uno to feature one.
+In June 2023, the **Arduino Uno R4 series** was released, the first UNO to feature a 32-bit microcontroller, the [RA4M1](https://www.renesas.com/us/en/document/dst/renesas-ra4m1-group-datasheet?r=1054146) from Renesas.  While 32-bit microcontrollers are no new thing, it is the first official UNO board to feature one. The R4 series has two versions:
+- **Arduino UNO R4 Minima** ([store](http://store.arduino.cc/uno-r4-minima) / [docs](https://docs.arduino.cc/hardware/uno-r4-minima)) - base version.
+- **Arduino UNO R4 WiFi** ([store](http://store.arduino.cc/uno-r4-wifi) / [docs](https://docs.arduino.cc/hardware/uno-r4-wifi)) - version with a Wi-Fi/Bluetooth module (ESP32) and a 12x8 LED matrix.
 
-This major change will introduce many challenges, mainly for the amazing libraries developed over the years, particularly around the ATMega328P.
+This major change will introduce many challenges, mainly for the amazing libraries developed over the years, particularly around the **ATMega328P**.
 
 This repository is a gathering point for you all who want to participate in the testing & porting of libraries to the new 32-bit platform. Here you will see the status, and we welcome you to submit your testing data directly to this repository! 
 
