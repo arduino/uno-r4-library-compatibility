@@ -109,6 +109,7 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 | 29. | [ER_OLEDM1_CH1115](https://github.com/gavinlyonsrepo/ER_OLEDM1_CH1115)                                         | PASS  ✅     | PASS  ✅       |       |
 | 30. | [ERM19264_UC1609](https://github.com/gavinlyonsrepo/ERM19264_UC1609)                                           | PASS  ✅     | PASS  ✅       |       |
 | 31. | [ADXL345](https://github.com/sparkfun/SparkFun_ADXL345_Arduino_Library)                                        | FAIL ❌      | FAIL ❌        |       |
+| 32. | [DFRobot_SGP40](https://github.com/DFRobot/DFRobot_SGP40)                                                      | FAIL ❌      |                |Compiles on Wifi fails on Minima  | 
 
 
 
