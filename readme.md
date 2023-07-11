@@ -174,3 +174,8 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 | No. | Library                                                              | Compilation | Hardware Test | Notes |
 | --- | -------------------------------------------------------------------- | ----------- | ------------- | ----- |
 | 1.  | [Adafruit SleepyDog](https://github.com/adafruit/Adafruit_SleepyDog) | FAIL ❌      | FAIL ❌        |       |
+
+### Audio
+
+| No. | Library                                                              | Compilation | Hardware Test | Notes |
+| 1.  | [Talkie](https://github.com/ArminJo/Talkie)                           | FAIL ❌   |                 |Fail on Minima and Wifi|
