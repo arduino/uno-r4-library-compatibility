@@ -178,4 +178,5 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 ### Audio
 
 | No. | Library                                                              | Compilation | Hardware Test | Notes |
+| --- | -------------------------------------------------------------------- | ----------- | ------------- | ----- |
 | 1.  | [Talkie](https://github.com/ArminJo/Talkie)                           | FAIL ❌   |                 |Fail on Minima and Wifi|
