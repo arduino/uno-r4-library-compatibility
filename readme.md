@@ -123,7 +123,7 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 | 5.  | [SevSeg](https://github.com/DeanIsMe/SevSeg)                                    | PASS ✅      | PASS ✅        |                                                             | 
 | 6.  | [Adafruit_ST7735](https://github.com/adafruit/Adafruit-ST7735-Library)          | PASS ✅      | PASS ✅        |                                                             |
 | 7.  | [Adafruit_ILI9341](https://github.com/adafruit/Adafruit_ILI9341)                | FAIL ❌      | FAIL ❌        |                                                             |
-| 8.  | [FastLED](https://github.com/FastLED/FastLED)                                   | FAIL ❌      | FAIL ❌        |    #error "This platform isn't recognized by FastLED... yet |
+| 8.  | [FastLED](https://github.com/FastLED/FastLED)                                   | PASS ✅      | PASS ✅        |    Use fork by @facchinm                                    |
 | 9.  | [ArduinoGraphics](https://github.com/arduino-libraries/ArduinoGraphics)         | PASS ✅      | -               |                                                             |
 | 10. | [TFTLCD-Library](https://github.com/adafruit/TFTLCD-Library)                    | FAIL ❌      | FAIL ❌        |  #include "wiring_private.h                                 |
 | 11.  | [TM1638plus](https://github.com/gavinlyonsrepo/TM1638plus)                     | PASS ✅      | PASS ✅        |                                                             | 
