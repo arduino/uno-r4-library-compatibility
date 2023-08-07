@@ -109,6 +109,7 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 | 29. | [ER_OLEDM1_CH1115](https://github.com/gavinlyonsrepo/ER_OLEDM1_CH1115)                                         | PASS  ✅     | PASS  ✅       |       |
 | 30. | [ERM19264_UC1609](https://github.com/gavinlyonsrepo/ERM19264_UC1609)                                           | PASS  ✅     | PASS  ✅       |       |
 | 31. | [ADXL345](https://github.com/sparkfun/SparkFun_ADXL345_Arduino_Library)                                        | FAIL ❌      | FAIL ❌        |       |
+| 32. | [SHT21-Arduino-Library](https://github.com/SolderedElectronics/SHT21-Arduino-Library)                          | PASS  ✅     | PASS  ✅       |       |
 
 
 
@@ -126,10 +127,11 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 | 8.  | [FastLED](https://github.com/FastLED/FastLED)                                   | FAIL ❌      | FAIL ❌        |    #error "This platform isn't recognized by FastLED... yet |
 | 9.  | [ArduinoGraphics](https://github.com/arduino-libraries/ArduinoGraphics)         | PASS ✅      | -               |                                                             |
 | 10. | [TFTLCD-Library](https://github.com/adafruit/TFTLCD-Library)                    | FAIL ❌      | FAIL ❌        |  #include "wiring_private.h                                 |
-| 11.  | [TM1638plus](https://github.com/gavinlyonsrepo/TM1638plus)                     | PASS ✅      | PASS ✅        |                                                             | 
-| 12.  | [NOKIA5110_TEXT](https://github.com/gavinlyonsrepo/NOKIA5110_TEXT/)            | PASS ✅      | PASS ✅        |                                                             | 
-| 13.  | [HD44780_LCD_PCF8574](https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574/)  | PASS ✅      | PASS ✅        |                                                             | 
-| 14.  | [FastLed](https://github.com/FastLED/FastLED)                                  | FAIL ❌      | FAIL ❌        |                                                             | 
+| 11. | [TM1638plus](https://github.com/gavinlyonsrepo/TM1638plus)                      | PASS ✅      | PASS ✅        |                                                             | 
+| 12. | [NOKIA5110_TEXT](https://github.com/gavinlyonsrepo/NOKIA5110_TEXT/)             | PASS ✅      | PASS ✅        |                                                             | 
+| 13. | [HD44780_LCD_PCF8574](https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574/)   | PASS ✅      | PASS ✅        |                                                             | 
+| 14. | [FastLed](https://github.com/FastLED/FastLED)                                   | FAIL ❌      | FAIL ❌        |                                                             | 
+| 15. | [DIYables_4Digit7Segment_74HC595](https://github.com/DIYables/DIYables_4Digit7Segment_74HC595)| PASS ✅      | PASS ✅        |                                                             | 
 
 ### USB
 
