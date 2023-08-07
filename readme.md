@@ -129,7 +129,7 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 | 11.  | [TM1638plus](https://github.com/gavinlyonsrepo/TM1638plus)                     | PASS ✅      | PASS ✅        |                                                             | 
 | 12.  | [NOKIA5110_TEXT](https://github.com/gavinlyonsrepo/NOKIA5110_TEXT/)            | PASS ✅      | PASS ✅        |                                                             | 
 | 13.  | [HD44780_LCD_PCF8574](https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574/)  | PASS ✅      | PASS ✅        |                                                             | 
-| 14.  | [FastLed](https://github.com/FastLED/FastLED)                                  | FAIL ❌      | FAIL ❌        |                                                             | 
+| 14.  | [Arduino_GFX](https://github.com/ZinggJM/Arduino_GFX)                          | PASS ✅      | PASS ✅        |                                                             | 
 
 ### USB
 
