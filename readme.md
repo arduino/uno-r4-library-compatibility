@@ -114,22 +114,22 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 
 ### Displays
 
-| No. | Library                                                                         | Compilation  | Hardware Test   | Notes                                                       |
-| --- | ------------------------------------------------------------------------------- | ------------ | --------------- | --------------------------------------                      |
-| 1.  | [u8g2](https://github.com/olikraus/u8g2)                                        | PASS ✅      | PASS ✅        |                                                             |
-| 2.  | [Adafruit SSD1306](https://github.com/adafruit/Adafruit_SSD1306)                | PASS ✅      | FAIL ❌        | Scattered pixels all over the display.                      |
-| 3.  | [LiquidCrystal](https://github.com/arduino-libraries/LiquidCrystal)             | PASS ✅      | PASS ✅        |                                                             |
-| 4.  | [LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C)           | PASS ✅      | PASS ✅        |                                                             |
-| 5.  | [SevSeg](https://github.com/DeanIsMe/SevSeg)                                    | PASS ✅      | PASS ✅        |                                                             | 
-| 6.  | [Adafruit_ST7735](https://github.com/adafruit/Adafruit-ST7735-Library)          | PASS ✅      | PASS ✅        |                                                             |
-| 7.  | [Adafruit_ILI9341](https://github.com/adafruit/Adafruit_ILI9341)                | FAIL ❌      | FAIL ❌        |                                                             |
-| 8.  | [FastLED](https://github.com/FastLED/FastLED)                                   | PASS ✅      | PASS ✅        |    Use fork by @facchinm                                    |
-| 9.  | [ArduinoGraphics](https://github.com/arduino-libraries/ArduinoGraphics)         | PASS ✅      | -               |                                                             |
-| 10. | [TFTLCD-Library](https://github.com/adafruit/TFTLCD-Library)                    | FAIL ❌      | FAIL ❌        |  #include "wiring_private.h                                 |
-| 11.  | [TM1638plus](https://github.com/gavinlyonsrepo/TM1638plus)                     | PASS ✅      | PASS ✅        |                                                             | 
-| 12.  | [NOKIA5110_TEXT](https://github.com/gavinlyonsrepo/NOKIA5110_TEXT/)            | PASS ✅      | PASS ✅        |                                                             | 
-| 13.  | [HD44780_LCD_PCF8574](https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574/)  | PASS ✅      | PASS ✅        |                                                             | 
-| 14.  | [Arduino_GFX](https://github.com/ZinggJM/Arduino_GFX)                          | PASS ✅      | PASS ✅        |                                                             | 
+| No. | Library                                                                       | Compilation | Hardware Test | Notes                                                                                                |
+| --- | ----------------------------------------------------------------------------- | ----------- | ------------- | ---------------------------------------------------------------------------------------------------- |
+| 1.  | [u8g2](https://github.com/olikraus/u8g2)                                      | PASS ✅     | PASS ✅       |                                                                                                      |
+| 2.  | [Adafruit SSD1306](https://github.com/adafruit/Adafruit_SSD1306)              | PASS ✅     | FAIL ❌       | Scattered pixels all over the display.                                                               |
+| 3.  | [LiquidCrystal](https://github.com/arduino-libraries/LiquidCrystal)           | PASS ✅     | PASS ✅       |                                                                                                      |
+| 4.  | [LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C)         | PASS ✅     | PASS ✅       |                                                                                                      |
+| 5.  | [SevSeg](https://github.com/DeanIsMe/SevSeg)                                  | PASS ✅     | PASS ✅       |                                                                                                      |
+| 6.  | [Adafruit_ST7735](https://github.com/adafruit/Adafruit-ST7735-Library)        | PASS ✅     | PASS ✅       |                                                                                                      |
+| 7.  | [Adafruit_ILI9341](https://github.com/adafruit/Adafruit_ILI9341)              | FAIL ❌     | FAIL ❌       |                                                                                                      |
+| 8.  | [FastLED](https://github.com/FastLED/FastLED)                                 | PASS ✅     | PASS ✅       | Use fork by @facchinm                                                                                |
+| 9.  | [ArduinoGraphics](https://github.com/arduino-libraries/ArduinoGraphics)       | PASS ✅     | -             |                                                                                                      |
+| 10. | [TFTLCD-Library](https://github.com/adafruit/TFTLCD-Library)                  | FAIL ❌     | FAIL ❌       | #include "wiring_private.h                                                                           |
+| 11. | [TM1638plus](https://github.com/gavinlyonsrepo/TM1638plus)                    | PASS ✅     | PASS ✅       |                                                                                                      |
+| 12. | [NOKIA5110_TEXT](https://github.com/gavinlyonsrepo/NOKIA5110_TEXT/)           | PASS ✅     | PASS ✅       |                                                                                                      |
+| 13. | [HD44780_LCD_PCF8574](https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574/) | PASS ✅     | PASS ✅       |                                                                                                      |
+| 14. | [Arduino_GFX](https://github.com/ZinggJM/Arduino_GFX)                         | PASS ✅     | PASS ✅       | Compatibility only when used w/ 8-bit parallel<br />TFT UNO-format shields (e.g., MCUFriend shields) |
 
 ### USB
 
