@@ -112,6 +112,8 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 | 32. | [SHT21-Arduino-Library](https://github.com/SolderedElectronics/SHT21-Arduino-Library)                          | PASS  ✅     | PASS  ✅       |       |
 | 33. | [ArduinoJoystickLibrary](https://github.com/MHeironimus/ArduinoJoystickLibrary/tree/master)                    | FAIL ❌      | FAIL ❌        |       |
 | 34. | [SHT21-Arduino-Library](https://github.com/SolderedElectronics/SHT21-Arduino-Library)                          | PASS  ✅     | PASS  ✅       |       |
+| 35. | [DFRobot_SGP40](https://github.com/DFRobot/DFRobot_SGP40)                                                      | FAIL ❌      |                 |Compiles on Wifi fails on Minima  | 
+| 36. | [JoystickWin](https://github.com/controllercustom/JoystickWin)                                                 | PASS  ✅     | PASS  ✅       |       |
 
 ### Displays
 
@@ -170,6 +172,7 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 | 17. | [ArduinoOTA](https://github.com/jandrassy/ArduinoOTA)                       | PASS ✅      | PASS ✅        |                                    |
 | 18. | [TelnetStream](https://github.com/jandrassy/TelnetStream)                   | PASS ✅      | PASS ✅        |                                    |
 | 19. | [StreamLib](https://github.com/jandrassy/StreamLib)                         | PASS ✅      | PASS ✅        |                                    |
+| 20. | [pubsubclient](https://github.com/knolleary/pubsubclient)                   | PASS  ✅     | PASS  ✅       |                                    |
 
 ### Storage
 
