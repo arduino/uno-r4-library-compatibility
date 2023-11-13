@@ -132,7 +132,7 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 | 11. | [TM1638plus](https://github.com/gavinlyonsrepo/TM1638plus)                                    | PASS ✅      | PASS ✅       |                                                                                                      |
 | 12. | [NOKIA5110_TEXT](https://github.com/gavinlyonsrepo/NOKIA5110_TEXT/)                           | PASS ✅      | PASS ✅       |                                                                                                      |
 | 13. | [HD44780_LCD_PCF8574](https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574/)                 | PASS ✅      | PASS ✅       |                                                                                                      |
-| 14. | [Arduino_GFX](https://github.com/ZinggJM/Arduino_GFX)                                         | PASS ✅      | PASS ✅       | Compatibility only when used w/ 8-bit parallel<br />TFT UNO-format shields (e.g., MCUFriend shields) |
+| 14. | [Arduino_GFX](https://github.com/moononournation/Arduino_GFX)                                 | PASS ✅      | PASS ✅       | Supports many data buses, also<br />TFT UNO-format shields (e.g., MCUFriend shields) |
 | 15. | [DIYables_4Digit7Segment_74HC595](https://github.com/DIYables/DIYables_4Digit7Segment_74HC595)| PASS ✅      | PASS ✅       |                                                                                                      | 
 
 ### USB
