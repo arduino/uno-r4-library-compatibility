@@ -136,6 +136,7 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 | 14. | [Arduino_GFX](https://github.com/moononournation/Arduino_GFX)                                 | PASS ✅      | PASS ✅       | Supports many data buses, also<br />TFT UNO-format shields (e.g., MCUFriend shields) |
 | 15. | [DIYables_4Digit7Segment_74HC595](https://github.com/DIYables/DIYables_4Digit7Segment_74HC595)| PASS ✅      | PASS ✅       |                                                                                                      | 
 | 16. | [MD_Parola](https://github.com/MajicDesigns/MD_Parola )| PASS ✅      | PASS ✅       |                                                                                                      | 
+| 17. | [MD_MAX72XX](https://github.com/MajicDesigns/MD_MAX72XX)| PASS ✅      | PASS ✅       |    
 
 ### USB
 
