@@ -142,6 +142,7 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 | --- | --------------------------------------------------------- | ----------- | ------------- | ----- |
 | 1.  | [Mouse](https://github.com/arduino-libraries/Mouse)       | PASS ✅      | PASS ✅        |       |
 | 2.  | [Keyboard](https://github.com/arduino-libraries/Keyboard) | PASS ✅      | PASS ✅        |       |
+| 3.  | [USB_Host_Shield_2.0](https://github.com/felis/USB_Host_Shield_2.0) | PASS ✅      | PASS ✅     |       |
 
 ### Analog
 
