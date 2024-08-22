@@ -178,6 +178,7 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 | 19. | [StreamLib](https://github.com/jandrassy/StreamLib)                         | PASS ✅      | PASS ✅        |                                    |
 | 20. | [pubsubclient](https://github.com/knolleary/pubsubclient)                   | PASS  ✅     | PASS  ✅       |                                    |
 | 21. | [EtherSia](https://github.com/njh/EtherSia)                   | PASS  ✅     | PASS  ✅       |                                    |
+| 22. | [DS3231](https://github.com/NorthernWidget/DS3231)                      | PASS ✅      | PASS ✅        | 
 
 ### Storage
 
