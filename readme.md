@@ -72,6 +72,7 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 | 1.  | [Servo](https://github.com/arduino-libraries/Servo)        | PASS ✅      | PASS ✅        |       |
 | 2.  | [Stepper](https://github.com/arduino-libraries/Stepper)    | PASS ✅      | PASS ✅        |       |
 | 3.  | [AccelStepper](https://github.com/waspinator/AccelStepper) | PASS ✅      | FAIL ❌        |       |
+| 4.  | [MobaTools](https://github.com/MicroBahner/MobaTools)      | PASS ✅      | PASS ✅        |       |
 
 
 ### Sensors
