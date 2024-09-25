@@ -77,50 +77,50 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 
 ### Sensors
 
-| No. | Library                                                                                                        | Compilation | Hardware Test | Notes |
-| --- | -------------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ----- |
-| 1.  | [Adafruit Neopixel](https://github.com/adafruit/Adafruit_NeoPixel)                                             | PASS ✅      | FAIL ❌        |       |
-| 2.  | [Adafruit DHTSensor](https://github.com/adafruit/DHT-sensor-library)                                           | PASS ✅      | PASS ✅        |       |
-| 3.  | [IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote)                                               | FAIL ❌      | FAIL ❌        |       |
-| 4.  | [Grove_BMP280](https://github.com/Seeed-Studio/Grove_BMP280)                                                   | PASS  ✅     | PASS  ✅       |       |
-| 5.  | [Seeed_Arduino_LIS3DHTR](https://github.com/Seeed-Studio/Seeed_Arduino_LIS3DHTR)                               | PASS  ✅     | PASS  ✅       |       |
-| 6.  | [DHT_sensor_library](https://github.com/adafruit/DHT-sensor-library)                                           | PASS  ✅     | PASS  ✅       |       |
-| 7.  | [Grove_Temperature_And_Humidity_Sensor](https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor) | PASS  ✅     | PASS  ✅       |       |
-| 8.  | [Keypad](https://github.com/Chris--A/Keypad)                                                                   | FAIL ❌      | FAIL ❌        |       |
-| 9.  | [Adafruit_BMP280_Library](https://github.com/adafruit/Adafruit_BMP280_Library)                                 | PASS  ✅     | PASS  ✅       |       |
-| 10. | [Adafruit_Keypad](https://github.com/adafruit/Adafruit_Keypad)                                                 | PASS  ✅     | PASS  ✅       |       |
-| 11. | [Bounce2](https://github.com/thomasfredericks/Bounce2)                                                         | PASS  ✅     | PASS  ✅       |       |
-| 12. | [Adafruit_BusIO](https://github.com/adafruit/Adafruit_BusIO)                                                   | PASS  ✅     | PASS  ✅       |       |
-| 13. | [Adafruit_SGP30_Sensor](https://github.com/adafruit/Adafruit_SGP30)                                            | PASS  ✅     | PASS  ✅       |       |
-| 14. | [Adafruit_SHT31_Library](Adafruit_SHT31_Library)                                                               | PASS  ✅     | PASS  ✅       |       |
-| 15. | [Adafruit_LIS3DH](https://github.com/adafruit/Adafruit_LIS3DH)                                                 | PASS  ✅     | PASS  ✅       |       |
-| 16. | [Adafruit_LSM6DSOX](https://github.com/adafruit/Adafruit_LSM6DS)                                               | PASS  ✅     | PASS  ✅       |       |
-| 17. | [Adafruit_LSM6DSO32](https://github.com/adafruit/Adafruit_LSM6DS)                                              | PASS  ✅     | PASS  ✅       |       |
-| 18. | [Adafruit_ADXL343](https://github.com/adafruit/Adafruit_ADXL343)                                               | PASS  ✅     | PASS  ✅       |       |
-| 19. | [Adafruit-MLX90614-Library](https://github.com/adafruit/Adafruit-MLX90614-Library)                             | PASS  ✅     | PASS  ✅       |       |
-| 20. | [SparkFunMLX90614](https://github.com/sparkfun/SparkFun_MLX90614_Arduino_Library)                              | FAIL ❌      | FAIL ❌        |       |
-| 21. | [Adafruit_TCS34725](https://github.com/adafruit/Adafruit_TCS34725)                                             | PASS  ✅     | PASS  ✅       |       |
-| 22. | [DFRobot_TCS34725](https://github.com/DFRobot/DFRobot_TCS34725)                                                | FAIL ❌      | FAIL ❌        |       |
-| 23. | [DHTstable](https://github.com/RobTillaart/DHTstable)                                                          | PASS  ✅     | PASS  ✅       |       |
-| 24. | [DHTNew](https://github.com/DFRobot/DFRobot_TCS34725)                                                          | PASS  ✅     | FAIL ❌        | Returns incorrect temperature and humidity      |
-| 25. | [Ultrasonic](https://github.com/ErickSimoes/Ultrasonic)                                                        | PASS  ✅     | PASS  ✅       |       |
-| 26. | [Adafruit_BME280_Library](https://github.com/adafruit/Adafruit_BME280_Library)                                 | PASS  ✅     | PASS  ✅       |       |
-| 27. | [arduino-bme280](https://github.com/malokhvii-eduard/arduino-bme280)                                           | PASS  ✅     | PASS  ✅       |       |
-| 28. | [bme280](https://github.com/bolderflight/bme280)                                                               | PASS  ✅     | PASS  ✅       |       |
-| 29. | [ER_OLEDM1_CH1115](https://github.com/gavinlyonsrepo/ER_OLEDM1_CH1115)                                         | PASS  ✅     | PASS  ✅       |       |
-| 30. | [ERM19264_UC1609](https://github.com/gavinlyonsrepo/ERM19264_UC1609)                                           | PASS  ✅     | PASS  ✅       |       |
-| 31. | [ADXL345](https://github.com/sparkfun/SparkFun_ADXL345_Arduino_Library)                                        | FAIL ❌      | FAIL ❌        |       |
-| 32. | [SHT21-Arduino-Library](https://github.com/SolderedElectronics/SHT21-Arduino-Library)                          | PASS  ✅     | PASS  ✅       |       |
-| 33. | [ArduinoJoystickLibrary](https://github.com/MHeironimus/ArduinoJoystickLibrary/tree/master)                    | FAIL ❌      | FAIL ❌        |       |
-| 34. | [SHT21-Arduino-Library](https://github.com/SolderedElectronics/SHT21-Arduino-Library)                          | PASS  ✅     | PASS  ✅       |       |
-| 35. | [DFRobot_SGP40](https://github.com/DFRobot/DFRobot_SGP40)                                                      | FAIL ❌      |                 |Compiles on Wifi fails on Minima  | 
-| 36. | [JoystickWin](https://github.com/controllercustom/JoystickWin)                                                 | PASS  ✅     | PASS  ✅       |       |
-| 37. | [LoveButton](https://github.com/delta-G/LoveButton)                                                            | PASS  ✅     | PASS  ✅       |   made for Minima    |
+| No. | Library                                                                                                        | Compilation   | Hardware Test  | Notes                                      |
+| --- | -------------------------------------------------------------------------------------------------------------- | ------------- | -------------- | ------------------------------------------ |
+| 1.  | [Adafruit Neopixel](https://github.com/adafruit/Adafruit_NeoPixel)                                             | PASS ✅      | FAIL ❌        |                                            |
+| 2.  | [Adafruit DHTSensor](https://github.com/adafruit/DHT-sensor-library)                                           | PASS ✅      | PASS ✅        |                                            |
+| 3.  | [IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote)                                               | FAIL ❌      | FAIL ❌        |                                            |
+| 4.  | [Grove_BMP280](https://github.com/Seeed-Studio/Grove_BMP280)                                                   | PASS  ✅     | PASS  ✅       |                                            |
+| 5.  | [Seeed_Arduino_LIS3DHTR](https://github.com/Seeed-Studio/Seeed_Arduino_LIS3DHTR)                               | PASS  ✅     | PASS  ✅       |                                            |
+| 6.  | [DHT_sensor_library](https://github.com/adafruit/DHT-sensor-library)                                           | PASS  ✅     | PASS  ✅       |                                            |
+| 7.  | [Grove_Temperature_And_Humidity_Sensor](https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor) | PASS  ✅     | PASS  ✅       |                                            |
+| 8.  | [Keypad](https://github.com/Chris--A/Keypad)                                                                   | FAIL ❌      | FAIL ❌        |                                            |
+| 9.  | [Adafruit_BMP280_Library](https://github.com/adafruit/Adafruit_BMP280_Library)                                 | PASS  ✅     | PASS  ✅       |                                            |
+| 10. | [Adafruit_Keypad](https://github.com/adafruit/Adafruit_Keypad)                                                 | PASS  ✅     | PASS  ✅       |                                            |
+| 11. | [Bounce2](https://github.com/thomasfredericks/Bounce2)                                                         | PASS  ✅     | PASS  ✅       |                                            |
+| 12. | [Adafruit_BusIO](https://github.com/adafruit/Adafruit_BusIO)                                                   | PASS  ✅     | PASS  ✅       |                                            |
+| 13. | [Adafruit_SGP30_Sensor](https://github.com/adafruit/Adafruit_SGP30)                                            | PASS  ✅     | PASS  ✅       |                                            |
+| 14. | [Adafruit_SHT31_Library](Adafruit_SHT31_Library)                                                               | PASS  ✅     | PASS  ✅       |                                            |
+| 15. | [Adafruit_LIS3DH](https://github.com/adafruit/Adafruit_LIS3DH)                                                 | PASS  ✅     | PASS  ✅       |                                            |
+| 16. | [Adafruit_LSM6DSOX](https://github.com/adafruit/Adafruit_LSM6DS)                                               | PASS  ✅     | PASS  ✅       |                                            |
+| 17. | [Adafruit_LSM6DSO32](https://github.com/adafruit/Adafruit_LSM6DS)                                              | PASS  ✅     | PASS  ✅       |                                            |
+| 18. | [Adafruit_ADXL343](https://github.com/adafruit/Adafruit_ADXL343)                                               | PASS  ✅     | PASS  ✅       |                                            |
+| 19. | [Adafruit-MLX90614-Library](https://github.com/adafruit/Adafruit-MLX90614-Library)                             | PASS  ✅     | PASS  ✅       |                                            |
+| 20. | [SparkFunMLX90614](https://github.com/sparkfun/SparkFun_MLX90614_Arduino_Library)                              | FAIL ❌      | FAIL ❌        |                                            |
+| 21. | [Adafruit_TCS34725](https://github.com/adafruit/Adafruit_TCS34725)                                             | PASS  ✅     | PASS  ✅       |                                            |
+| 22. | [DFRobot_TCS34725](https://github.com/DFRobot/DFRobot_TCS34725)                                                | FAIL ❌      | FAIL ❌        |                                            |
+| 23. | [DHTstable](https://github.com/RobTillaart/DHTstable)                                                          | PASS  ✅     | PASS  ✅       |                                            |
+| 24. | [DHTNew](https://github.com/DFRobot/DFRobot_TCS34725)                                                          | PASS  ✅     | FAIL ❌        | Returns incorrect temperature and humidity |
+| 25. | [Ultrasonic](https://github.com/ErickSimoes/Ultrasonic)                                                        | PASS  ✅     | PASS  ✅       |                                            |
+| 26. | [Adafruit_BME280_Library](https://github.com/adafruit/Adafruit_BME280_Library)                                 | PASS  ✅     | PASS  ✅       |                                            |
+| 27. | [arduino-bme280](https://github.com/malokhvii-eduard/arduino-bme280)                                           | PASS  ✅     | PASS  ✅       |                                            |
+| 28. | [bme280](https://github.com/bolderflight/bme280)                                                               | PASS  ✅     | PASS  ✅       |                                            |
+| 29. | [ER_OLEDM1_CH1115](https://github.com/gavinlyonsrepo/ER_OLEDM1_CH1115)                                         | PASS  ✅     | PASS  ✅       |                                            |
+| 30. | [ERM19264_UC1609](https://github.com/gavinlyonsrepo/ERM19264_UC1609)                                           | PASS  ✅     | PASS  ✅       |                                            |
+| 31. | [ADXL345](https://github.com/sparkfun/SparkFun_ADXL345_Arduino_Library)                                        | FAIL ❌      | FAIL ❌        |                                            |
+| 32. | [SHT21-Arduino-Library](https://github.com/SolderedElectronics/SHT21-Arduino-Library)                          | PASS  ✅     | PASS  ✅       |                                            |
+| 33. | [ArduinoJoystickLibrary](https://github.com/MHeironimus/ArduinoJoystickLibrary/tree/master)                    | FAIL ❌      | FAIL ❌        |                                            |
+| 34. | [SHT21-Arduino-Library](https://github.com/SolderedElectronics/SHT21-Arduino-Library)                          | PASS  ✅     | PASS  ✅       |                                            |
+| 35. | [DFRobot_SGP40](https://github.com/DFRobot/DFRobot_SGP40)                                                      | FAIL ❌      |                | Compiles on Wifi fails on Minima           |   
+| 36. | [JoystickWin](https://github.com/controllercustom/JoystickWin)                                                 | PASS  ✅     | PASS  ✅       |                                            |
+| 37. | [LoveButton](https://github.com/delta-G/LoveButton)                                                            | PASS  ✅     | PASS  ✅       |   made for Minima                          |
 
 ### Displays
 
 | No. | Library                                                                                       | Compilation   | Hardware Test | Notes                                                                                                |
-| --- | --------------------------------------------------------------------------------------------- | ------------- | ------------- | ---------------------------------------------------------------------------------------------------- |
+| --- | --------------------------------------------------------------------------------------------- | ------------  | ------------- | ---------------------------------------------------------------------------------------------------- |
 | 1.  | [u8g2](https://github.com/olikraus/u8g2)                                                      | PASS ✅      | PASS ✅       |                                                                                                      |
 | 2.  | [Adafruit SSD1306](https://github.com/adafruit/Adafruit_SSD1306)                              | PASS ✅      | FAIL ❌       | Scattered pixels all over the display.                                                               |
 | 3.  | [LiquidCrystal](https://github.com/arduino-libraries/LiquidCrystal)                           | PASS ✅      | PASS ✅       |                                                                                                      |
@@ -134,10 +134,10 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 | 11. | [TM1638plus](https://github.com/gavinlyonsrepo/TM1638plus)                                    | PASS ✅      | PASS ✅       |                                                                                                      |
 | 12. | [NOKIA5110_TEXT](https://github.com/gavinlyonsrepo/NOKIA5110_TEXT/)                           | PASS ✅      | PASS ✅       |                                                                                                      |
 | 13. | [HD44780_LCD_PCF8574](https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574/)                 | PASS ✅      | PASS ✅       |                                                                                                      |
-| 14. | [Arduino_GFX](https://github.com/moononournation/Arduino_GFX)                                 | PASS ✅      | PASS ✅       | Supports many data buses, also<br />TFT UNO-format shields (e.g., MCUFriend shields) |
+| 14. | [Arduino_GFX](https://github.com/moononournation/Arduino_GFX)                                 | PASS ✅      | PASS ✅       | Supports many data buses, also<br />TFT UNO-format shields (e.g., MCUFriend shields)                 |
 | 15. | [DIYables_4Digit7Segment_74HC595](https://github.com/DIYables/DIYables_4Digit7Segment_74HC595)| PASS ✅      | PASS ✅       |                                                                                                      | 
-| 16. | [MD_Parola](https://github.com/MajicDesigns/MD_Parola )| PASS ✅      | PASS ✅       |                                                                                                      | 
-| 17. | [MD_MAX72XX](https://github.com/MajicDesigns/MD_MAX72XX)| PASS ✅      | PASS ✅       |    
+| 16. | [MD_Parola](https://github.com/MajicDesigns/MD_Parola )                                       | PASS ✅      | PASS ✅       |                                                                                                      | 
+| 17. | [MD_MAX72XX](https://github.com/MajicDesigns/MD_MAX72XX)                                      | PASS ✅      | PASS ✅       |                                                                                                      |
 
 ### USB
 
@@ -185,17 +185,17 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 
 | No. | Library                                       | Compilation | Hardware Test | Notes |
 | --- | --------------------------------------------- | ----------- | ------------- | ----- |
-| 1.  | [SD](https://github.com/arduino-libraries/SD) | PASS ✅      | PASS ✅        |       |
+| 1.  | [SD](https://github.com/arduino-libraries/SD) | PASS ✅     | PASS ✅      |       |
 
 ### Power
 
 | No. | Library                                                              | Compilation | Hardware Test | Notes |
 | --- | -------------------------------------------------------------------- | ----------- | ------------- | ----- |
-| 1.  | [Adafruit SleepyDog](https://github.com/adafruit/Adafruit_SleepyDog) | FAIL ❌      | FAIL ❌        |       |
+| 1.  | [Adafruit SleepyDog](https://github.com/adafruit/Adafruit_SleepyDog) | FAIL ❌     | FAIL ❌      |       |
 
 ### Audio
 
-| No. | Library                                                              | Compilation | Hardware Test | Notes |
-| --- | -------------------------------------------------------------------- | ----------- | ------------- | ----- |
-| 1.  | [Talkie](https://github.com/ArminJo/Talkie)                          | FAIL ❌     |                 |Fail on Minima and Wifi|
-| 2.  | [Sparkfun-MP3-Player-Shield-Arduino-Library](https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library)                          | FAIL ❌     |                 ||
+| No. | Library                                                                                                                | Compilation | Hardware Test | Notes                   |
+| --- | ---------------------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ----------------------- |
+| 1.  | [Talkie](https://github.com/ArminJo/Talkie)                                                                            | FAIL ❌     |               | Fail on Minima and Wifi |
+| 2.  | [Sparkfun-MP3-Player-Shield-Arduino-Library](https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library) | FAIL ❌     |               |
