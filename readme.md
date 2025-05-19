@@ -116,6 +116,7 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 | 35. | [DFRobot_SGP40](https://github.com/DFRobot/DFRobot_SGP40)                                                      | FAIL ❌      |                | Compiles on Wifi fails on Minima           |   
 | 36. | [JoystickWin](https://github.com/controllercustom/JoystickWin)                                                 | PASS  ✅     | PASS  ✅       |                                            |
 | 37. | [LoveButton](https://github.com/delta-G/LoveButton)                                                            | PASS  ✅     | PASS  ✅       |   made for Minima                          |
+| 34. | [DIYables Keypad](https://github.com/DIYables/DIYables_Keypad)                                                 | PASS  ✅     | PASS  ✅       |                                            |
 
 ### Displays
 
@@ -138,6 +139,8 @@ This list contains the status of tested Arduino libraries with the UNO R4 board.
 | 15. | [DIYables_4Digit7Segment_74HC595](https://github.com/DIYables/DIYables_4Digit7Segment_74HC595)| PASS ✅      | PASS ✅       |                                                                                                      | 
 | 16. | [MD_Parola](https://github.com/MajicDesigns/MD_Parola )                                       | PASS ✅      | PASS ✅       |                                                                                                      | 
 | 17. | [MD_MAX72XX](https://github.com/MajicDesigns/MD_MAX72XX)                                      | PASS ✅      | PASS ✅       |                                                                                                      |
+| 18. | [DIYables TFT Shield](https://github.com/DIYables/DIYables_TFT_Shield)                        | PASS ✅      | PASS ✅       |                                                                                                      |
+| 19. | [DIYables TFT Touch Shield](https://github.com/DIYables/DIYables_TFT_Touch_Shield)            | PASS ✅      | PASS ✅       |                                                                                                      |
 
 ### USB
 
